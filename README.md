@@ -1,3 +1,3 @@
 # SQL_Atividades
 
-- Atividades desenvlvidas em SQL para fixar o aprendizado.
+- Atividades desenvolvidas em SQL para fixar o aprendizado.
